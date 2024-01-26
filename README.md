@@ -2,6 +2,8 @@
 My first github repo!
 Hello Odin and SwiftUI!
 
-```swift
+```
+Swift
 Herroooo
+How's everyone doing today
 ```
